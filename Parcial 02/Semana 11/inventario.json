@@ -1,0 +1,20 @@
+{
+    "001": {
+        "id": "001",
+        "nombre": "Zapatos Ferragamo Salvatore",
+        "cantidad": 2,
+        "precio": 350.0
+    },
+    "002": {
+        "id": "002",
+        "nombre": "camisas John Varvatos",
+        "cantidad": 3,
+        "precio": 149.99
+    },
+    "003": {
+        "id": "003",
+        "nombre": "Laptop Lenovo Thinkpad P1 Gen 7",
+        "cantidad": 1,
+        "precio": 2899.0
+    }
+}
