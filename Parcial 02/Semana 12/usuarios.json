@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Angelo Rosseti",
+        "id_usuario": "001",
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Pierre López",
+        "id_usuario": "002",
+        "libros_prestados": []
+    }
+]

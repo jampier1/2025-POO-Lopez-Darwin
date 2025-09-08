@@ -1,0 +1,42 @@
+[
+    {
+        "titulo": [
+            "Fausto"
+        ],
+        "autor": [
+            "Johan",
+            "Wolfgang",
+            "Von",
+            "Goethe"
+        ],
+        "categoria": "Clásica",
+        "isbn": "0002"
+    },
+    {
+        "titulo": [
+            "La",
+            "Divina",
+            "Comedia"
+        ],
+        "autor": [
+            "Dante",
+            "Alighieri"
+        ],
+        "categoria": "Clásica",
+        "isbn": "0003"
+    },
+    {
+        "titulo": [
+            "El",
+            "Mito",
+            "de",
+            "Sísifo"
+        ],
+        "autor": [
+            "Albert",
+            "Camus"
+        ],
+        "categoria": "Ensayo Filosófico",
+        "isbn": "0004"
+    }
+]

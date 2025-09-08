@@ -1,0 +1,18 @@
+{
+    "001": [],
+    "002": [
+        {
+            "titulo": [
+                "El",
+                "Paraíso",
+                "Perdido"
+            ],
+            "autor": [
+                "John",
+                "Milton"
+            ],
+            "categoria": "Clásica",
+            "isbn": "0001"
+        }
+    ]
+}
