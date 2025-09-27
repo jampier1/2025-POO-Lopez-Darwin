@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Trotar",
+    "completed": false,
+    "added": "2025-09-26 21:20",
+    "due_date": "2025-09-27",
+    "due_time": "04:30"
+  },
+  {
+    "text": "Leer",
+    "completed": false,
+    "added": "2025-09-26 21:20",
+    "due_date": "2025-09-26",
+    "due_time": "20:00"
+  },
+  {
+    "text": "Clases",
+    "completed": false,
+    "added": "2025-09-26 21:20",
+    "due_date": "2025-09-27",
+    "due_time": "07:30"
+  },
+  {
+    "text": "Salida al cine",
+    "completed": false,
+    "added": "2025-09-26 21:21",
+    "due_date": "2025-09-28",
+    "due_time": "20:30"
+  }
+]
